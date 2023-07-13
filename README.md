@@ -17,4 +17,4 @@ This project aims to develop a Bayesian model for visual perception tasks, speci
 **Licence:** \
 This repo is licenced under the MIT Licence.
 
-[embed]https://github.com/Palak-B/Bayesian-model-for-visual-perception/blob/main/Final%20Report.pdf[/embed]
+[embed]https://github.com/Palak-B/Bayesian-model-for-visual-perception/blob/main/Final%20Report.pdf [/embed]
